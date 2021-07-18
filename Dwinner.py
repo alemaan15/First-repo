@@ -18,3 +18,5 @@ if diag.count(diag[0])==len(diag) and diag[0]!=0:
 
 if diags.count(diags[0])==len(diags) and diags[0]!=0:
 	print("Winnerrr")
+
+print("Game finshed")
